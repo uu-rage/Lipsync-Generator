@@ -1,4 +1,4 @@
-# BML-Realizer [![Build Status](https://travis-ci.org/uu-rage/LipSync-Generator.svg?branch=master)](https://travis-ci.org/uu-rage/LipSync-Generator)
+# LipSync-Generator [![Build Status](https://travis-ci.org/uu-rage/LipSync-Generator.svg?branch=master)](https://travis-ci.org/uu-rage/LipSync-Generator)
 
 # Table of Contents
 
